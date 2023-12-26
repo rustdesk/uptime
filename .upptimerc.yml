@@ -1,0 +1,51 @@
+# Change these first
+owner: rustdesk # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
+
+sites:
+  - name: RustDesk Website
+    url: https://rustdesk.com/
+  - name: RustDesk doc
+    url: https://rustdesk.com/docs
+  - name: RustDesk Public Rendezvous Server
+    check: "tcp-ping"
+    url: rs-ny.rustdesk.com
+    port: 21116
+  - name: RustDesk Public Relay Server - EU1
+    check: "tcp-ping"
+    url: $HZ_SERVER
+    port: 21117
+  - name: RustDesk Public Relay Server - EU2
+    check: "tcp-ping"
+    url: $EU2_SERVER
+    port: 21117
+  - name: RustDesk Public Relay Server - East
+    check: "tcp-ping"
+    url: $EAST2
+    port: 21117
+  - name: RustDesk Public Relay Server - West
+    check: "tcp-ping"
+    url: $WEST
+    port: 21117
+  - name: RustDesk Public Relay Server - Tok
+    check: "tcp-ping"
+    url: $TOK
+    port: 21117
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: /uptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: RustDesk Uptime
+  introTitle: "Uptime monitor and status page"
+  introMessage: 
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
