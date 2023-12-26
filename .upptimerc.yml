@@ -5,7 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: RustDesk Website
     url: https://rustdesk.com/
-  - name: RustDesk doc
+  - name: RustDesk Doc
     url: https://rustdesk.com/docs
   - name: RustDesk Public Rendezvous Server
     check: "tcp-ping"
