@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-relay-server-eu-1",
     "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "85.65%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.63%",
+    "uptime": "98.08%",
+    "uptimeDay": "79.67%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
     "time": 114,
     "timeDay": 103,
     "timeWeek": 111,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-01-05": 207
+      "2024-01-05": 293
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-relay-server-eu-2",
     "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "85.73%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.64%",
+    "uptime": "98.08%",
+    "uptimeDay": "79.76%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
     "time": 114,
     "timeDay": 103,
     "timeWeek": 110,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-01-05": 205
+      "2024-01-05": 291
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "$TOK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-relay-server-tok",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "94.02%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 145,
-    "timeDay": 151,
+    "timeDay": 152,
     "timeWeek": 147,
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 86
     }
   }
 ]
