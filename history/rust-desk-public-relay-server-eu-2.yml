@@ -1,7 +1,7 @@
 url: $EU2_SERVER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-05T11:24:19.854Z
+status: up
+code: 200
+responseTime: 95
+lastUpdated: 2024-01-05T11:33:27.606Z
 startTime: 2023-12-26T02:36:06.414Z
 generator: Upptime <https://github.com/upptime/upptime>
