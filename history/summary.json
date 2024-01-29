@@ -40,19 +40,19 @@
     "url": "rs-ny.rustdesk.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-rendezvous-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 41,
-    "timeDay": 44,
-    "timeWeek": 66,
-    "timeMonth": 42,
-    "timeYear": 41,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 48,
+    "timeDay": 172,
+    "timeWeek": 95,
+    "timeMonth": 50,
+    "timeYear": 48,
     "dailyMinutesDown": {
-      "2024-01-29": 0
+      "2024-01-29": 16
     }
   },
   {
