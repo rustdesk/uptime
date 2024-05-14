@@ -27,10 +27,6 @@ sites:
     check: "tcp-ping"
     url: $WEST
     port: 21117
-  - name: RustDesk Public Relay Server - Tok
-    check: "tcp-ping"
-    url: $TOK
-    port: 21117
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
