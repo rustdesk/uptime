@@ -1,7 +1,7 @@
 url: $HZ_SERVER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-27T08:15:47.329Z
+status: up
+code: 200
+responseTime: 94
+lastUpdated: 2024-07-27T08:31:04.633Z
 startTime: 2023-12-26T02:36:05.147Z
 generator: Upptime <https://github.com/upptime/upptime>
