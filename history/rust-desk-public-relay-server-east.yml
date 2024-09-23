@@ -1,7 +1,7 @@
 url: $EAST2
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-23T13:35:50.292Z
+status: up
+code: 200
+responseTime: 6
+lastUpdated: 2024-09-23T13:47:04.447Z
 startTime: 2023-12-26T02:36:07.661Z
 generator: Upptime <https://github.com/upptime/upptime>
