@@ -15,17 +15,9 @@ sites:
     check: "tcp-ping"
     url: $HZ_SERVER
     port: 21117
-  - name: RustDesk Public Relay Server - EU2
-    check: "tcp-ping"
-    url: $EU2_SERVER
-    port: 21117
   - name: RustDesk Public Relay Server - East
     check: "tcp-ping"
     url: $EAST2
-    port: 21117
-  - name: RustDesk Public Relay Server - West
-    check: "tcp-ping"
-    url: $WEST
     port: 21117
 
 status-website:
