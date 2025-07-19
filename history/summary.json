@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rustdesk.com.ico",
     "slug": "rust-desk-website",
     "status": "up",
-    "uptime": "42.76%",
+    "uptime": "42.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.28%",
+    "uptimeYear": "48.56%",
     "time": 1091,
-    "timeDay": 1044,
-    "timeWeek": 1162,
-    "timeMonth": 1151,
-    "timeYear": 1117,
+    "timeDay": 1298,
+    "timeWeek": 1205,
+    "timeMonth": 1155,
+    "timeYear": 1119,
     "dailyMinutesDown": {
       "2025-06-15": 16,
       "2025-02-28": 61,
@@ -204,8 +204,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -214,16 +213,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rustdesk.com.ico",
     "slug": "rust-desk-doc",
     "status": "up",
-    "uptime": "51.27%",
+    "uptime": "51.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.29%",
-    "time": 406,
-    "timeDay": 348,
-    "timeWeek": 408,
-    "timeMonth": 402,
-    "timeYear": 406,
+    "uptimeYear": "48.56%",
+    "time": 407,
+    "timeDay": 444,
+    "timeWeek": 423,
+    "timeMonth": 403,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2025-02-28": 61,
       "2025-01-22": 1066,
@@ -412,8 +411,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -422,14 +420,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-rendezvous-server",
     "status": "up",
-    "uptime": "23.28%",
+    "uptime": "23.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "34.18%",
-    "uptimeMonth": "9.25%",
-    "uptimeYear": "0.66%",
+    "uptimeWeek": "48.45%",
+    "uptimeMonth": "12.53%",
+    "uptimeYear": "0.93%",
     "time": 114,
-    "timeDay": 137,
-    "timeWeek": 103,
+    "timeDay": 86,
+    "timeWeek": 94,
     "timeMonth": 108,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -793,8 +791,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -803,15 +800,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-relay-server-eu-1",
     "status": "up",
-    "uptime": "37.85%",
+    "uptime": "37.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "34.18%",
-    "uptimeMonth": "9.25%",
-    "uptimeYear": "24.25%",
+    "uptimeWeek": "48.45%",
+    "uptimeMonth": "12.53%",
+    "uptimeYear": "24.52%",
     "time": 122,
-    "timeDay": 151,
-    "timeWeek": 112,
-    "timeMonth": 112,
+    "timeDay": 92,
+    "timeWeek": 108,
+    "timeMonth": 108,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-15": 924,
@@ -1090,8 +1087,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -1100,16 +1096,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-relay-server-east",
     "status": "up",
-    "uptime": "35.98%",
+    "uptime": "36.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "34.18%",
-    "uptimeMonth": "9.25%",
-    "uptimeYear": "0.79%",
+    "uptimeWeek": "48.45%",
+    "uptimeMonth": "12.53%",
+    "uptimeYear": "1.06%",
     "time": 29,
-    "timeDay": 62,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 29,
+    "timeDay": 7,
+    "timeWeek": 64,
+    "timeMonth": 64,
+    "timeYear": 28,
     "dailyMinutesDown": {
       "2025-07-15": 924,
       "2025-07-14": 1440,
@@ -1471,8 +1467,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   }
 ]
