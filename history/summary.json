@@ -4,17 +4,17 @@
     "url": "https://rustdesk.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rustdesk.com.ico",
     "slug": "rust-desk-website",
-    "status": "down",
-    "uptime": "51.80%",
+    "status": "up",
+    "uptime": "51.81%",
     "uptimeDay": "98.72%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "77.57%",
+    "uptimeYear": "77.60%",
     "time": 1133,
-    "timeDay": 1278,
-    "timeWeek": 1242,
+    "timeDay": 1086,
+    "timeWeek": 1204,
     "timeMonth": 1196,
-    "timeYear": 1162,
+    "timeYear": 1161,
     "dailyMinutesDown": {
       "2025-11-01": 18,
       "2025-06-15": 16,
@@ -99,8 +99,7 @@
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
-      "2024-11-03": 1440,
-      "2024-11-02": 1440
+      "2024-11-03": 1440
     }
   },
   {
@@ -113,10 +112,10 @@
     "uptimeDay": "98.73%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "77.57%",
+    "uptimeYear": "77.60%",
     "time": 410,
-    "timeDay": 449,
-    "timeWeek": 432,
+    "timeDay": 387,
+    "timeWeek": 417,
     "timeMonth": 422,
     "timeYear": 409,
     "dailyMinutesDown": {
@@ -202,8 +201,7 @@
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
-      "2024-11-03": 1440,
-      "2024-11-02": 1440
+      "2024-11-03": 1440
     }
   },
   {
@@ -212,14 +210,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-rendezvous-server",
     "status": "up",
-    "uptime": "35.40%",
+    "uptime": "35.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.94%",
+    "uptimeYear": "29.97%",
     "time": 110,
-    "timeDay": 88,
-    "timeWeek": 93,
+    "timeDay": 145,
+    "timeWeek": 101,
     "timeMonth": 103,
     "timeYear": 109,
     "dailyMinutesDown": {
@@ -477,8 +475,7 @@
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
-      "2024-11-03": 1440,
-      "2024-11-02": 1440
+      "2024-11-03": 1440
     }
   },
   {
@@ -491,10 +488,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.53%",
+    "uptimeYear": "53.56%",
     "time": 119,
-    "timeDay": 91,
-    "timeWeek": 102,
+    "timeDay": 156,
+    "timeWeek": 111,
     "timeMonth": 112,
     "timeYear": 120,
     "dailyMinutesDown": {
@@ -668,8 +665,7 @@
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
-      "2024-11-03": 1440,
-      "2024-11-02": 1440
+      "2024-11-03": 1440
     }
   },
   {
@@ -689,7 +685,8 @@
     "timeMonth": 0,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2025-11-01": 1330,
+      "2025-11-02": 48,
+      "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -978,8 +975,7 @@
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
-      "2024-11-03": 1440,
-      "2024-11-02": 1440
+      "2024-11-03": 1440
     }
   }
 ]
