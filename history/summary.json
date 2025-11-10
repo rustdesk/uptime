@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rustdesk.com.ico",
     "slug": "rust-desk-website",
     "status": "up",
-    "uptime": "52.30%",
+    "uptime": "52.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "79.51%",
-    "time": 1133,
-    "timeDay": 1115,
-    "timeWeek": 1122,
-    "timeMonth": 1193,
-    "timeYear": 1162,
+    "uptimeYear": "79.79%",
+    "time": 1134,
+    "timeDay": 1231,
+    "timeWeek": 1153,
+    "timeMonth": 1201,
+    "timeYear": 1163,
     "dailyMinutesDown": {
       "2025-11-01": 18,
       "2025-06-15": 16,
@@ -91,8 +91,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   },
   {
@@ -101,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rustdesk.com.ico",
     "slug": "rust-desk-doc",
     "status": "up",
-    "uptime": "59.39%",
+    "uptime": "59.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "79.52%",
+    "uptimeYear": "79.79%",
     "time": 409,
-    "timeDay": 366,
-    "timeWeek": 381,
-    "timeMonth": 419,
+    "timeDay": 407,
+    "timeWeek": 387,
+    "timeMonth": 421,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2025-11-01": 18,
@@ -186,8 +185,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   },
   {
@@ -196,15 +194,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-rendezvous-server",
     "status": "up",
-    "uptime": "36.07%",
+    "uptime": "36.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.89%",
+    "uptimeYear": "32.16%",
     "time": 110,
-    "timeDay": 124,
-    "timeWeek": 125,
-    "timeMonth": 104,
+    "timeDay": 105,
+    "timeWeek": 120,
+    "timeMonth": 103,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2025-07-15": 924,
@@ -453,8 +451,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   },
   {
@@ -463,15 +460,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-relay-server-eu-1",
     "status": "up",
-    "uptime": "48.21%",
+    "uptime": "48.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.48%",
+    "uptimeYear": "55.76%",
     "time": 119,
-    "timeDay": 128,
-    "timeWeek": 131,
-    "timeMonth": 113,
+    "timeDay": 111,
+    "timeWeek": 126,
+    "timeMonth": 112,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2025-07-15": 924,
@@ -636,8 +633,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   },
   {
@@ -646,7 +642,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-relay-server-east",
     "status": "down",
-    "uptime": "41.05%",
+    "uptime": "40.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -657,7 +653,8 @@
     "timeMonth": 0,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2025-11-09": 49,
+      "2025-11-10": 48,
+      "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -946,8 +943,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   }
 ]
