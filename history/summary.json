@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rustdesk.com.ico",
     "slug": "rust-desk-website",
     "status": "up",
-    "uptime": "62.11%",
+    "uptime": "62.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 924,
-    "timeDay": 417,
-    "timeWeek": 402,
-    "timeMonth": 383,
-    "timeYear": 848,
+    "time": 923,
+    "timeDay": 325,
+    "timeWeek": 384,
+    "timeMonth": 378,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2025-12-05": 38,
       "2025-11-22": 499,
@@ -28,16 +28,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rustdesk.com.ico",
     "slug": "rust-desk-doc",
     "status": "up",
-    "uptime": "67.74%",
+    "uptime": "67.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 471,
-    "timeDay": 524,
-    "timeWeek": 508,
-    "timeMonth": 446,
-    "timeYear": 492,
+    "timeDay": 488,
+    "timeWeek": 510,
+    "timeMonth": 445,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2026-02-11": 57,
       "2025-11-22": 488,
@@ -50,15 +50,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-rendezvous-server",
     "status": "up",
-    "uptime": "49.25%",
+    "uptime": "49.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "80.60%",
+    "uptimeYear": "80.88%",
     "time": 115,
-    "timeDay": 88,
-    "timeWeek": 111,
-    "timeMonth": 142,
+    "timeDay": 100,
+    "timeWeek": 114,
+    "timeMonth": 143,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2026-04-13": 75,
@@ -133,8 +133,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -143,14 +142,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-relay-server-eu-1",
     "status": "up",
-    "uptime": "58.91%",
+    "uptime": "58.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.66%",
+    "uptimeYear": "80.94%",
     "time": 121,
-    "timeDay": 93,
-    "timeWeek": 120,
+    "timeDay": 114,
+    "timeWeek": 124,
     "timeMonth": 127,
     "timeYear": 119,
     "dailyMinutesDown": {
@@ -222,8 +221,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -232,14 +230,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-desk-public-relay-server-east",
     "status": "up",
-    "uptime": "44.61%",
+    "uptime": "44.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "49.94%",
+    "uptimeYear": "50.22%",
     "time": 31,
-    "timeDay": 7,
-    "timeWeek": 32,
+    "timeDay": 17,
+    "timeWeek": 34,
     "timeMonth": 36,
     "timeYear": 32,
     "dailyMinutesDown": {
@@ -429,8 +427,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   }
 ]
